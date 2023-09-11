@@ -11,10 +11,12 @@ public class Product {
     }
 
     public ShipmentSize getSize() {
+
         return size;
     }
 
     public void setSize(ShipmentSize size) {
+
         this.size = size;
     }
 }
